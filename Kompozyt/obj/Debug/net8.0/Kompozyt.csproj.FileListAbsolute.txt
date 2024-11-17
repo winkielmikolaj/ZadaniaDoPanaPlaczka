@@ -1,0 +1,14 @@
+C:\Users\winki\source\repos\Kompozyt\bin\Debug\net8.0\Kompozyt.exe
+C:\Users\winki\source\repos\Kompozyt\bin\Debug\net8.0\Kompozyt.deps.json
+C:\Users\winki\source\repos\Kompozyt\bin\Debug\net8.0\Kompozyt.runtimeconfig.json
+C:\Users\winki\source\repos\Kompozyt\bin\Debug\net8.0\Kompozyt.dll
+C:\Users\winki\source\repos\Kompozyt\bin\Debug\net8.0\Kompozyt.pdb
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\Kompozyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\Kompozyt.AssemblyInfoInputs.cache
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\Kompozyt.AssemblyInfo.cs
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\Kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\Kompozyt.dll
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\refint\Kompozyt.dll
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\Kompozyt.pdb
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\Kompozyt.genruntimeconfig.cache
+C:\Users\winki\source\repos\Kompozyt\obj\Debug\net8.0\ref\Kompozyt.dll
